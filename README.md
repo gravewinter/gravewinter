@@ -11,7 +11,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/STPsj6CHQz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gravewinter)
-[![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@grave.smp)
+[![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gravewinter)
 
 <br>
 
