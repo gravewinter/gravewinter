@@ -9,13 +9,13 @@
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@grave.smp)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/STPsj6CHQz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gravewinter)
+[![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@grave.smp)
 
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=111116&borderRadius=12&idleMessage=Probably%20working%20on%20something...)](https://discord.com/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/318607429577474049?theme=dark&bg=111116&borderRadius=12&idleMessage=Probably%20working%20on%20something...)](https://discord.com/users/318607429577474049)
 
 </div>
 
@@ -29,8 +29,8 @@
 
 **A custom Minecraft client and launcher.**
 
-[![Website](https://img.shields.io/badge/Website-991B1B?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/gravewinter)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
+[![Website](https://img.shields.io/badge/Website-991B1B?style=flat-square&logo=googlechrome&logoColor=white)](https://graveclient.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/STPsj6CHQz)
 
 <br>
 
@@ -40,8 +40,8 @@
 
 `graveffa.net`
 
-[![Minecraft](https://img.shields.io/badge/Play-GraveFFA-991B1B?style=flat-square)](https://graveffa.net)
-[![Store](https://img.shields.io/badge/Store-222222?style=flat-square)](https://graveffa.tebex.io/)
+[![Store](https://img.shields.io/badge/Store-991B1B?style=flat-square&logo=googlechrome&logoColor=white)](https://store.graveffa.net)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/MSh8YpQN2X)
 
 <br>
 
@@ -49,7 +49,7 @@
 
 **Custom Discord bot for moderation, tickets and server management.**
 
-[![GitHub](https://img.shields.io/badge/Project-GitHub-222222?style=flat-square&logo=github&logoColor=white)](https://github.com/gravewinter)
+`JavaScript` · `Node.js` · `Discord`
 
 <br>
 
